@@ -26,7 +26,7 @@ bot_token = os.environ['BOT_TOKEN']
 client = putiopy.Client(os.environ['PUT_IO_TOKEN'])
 
 # put.io folder to collect user files (/BOT_USERS/)
-USERS_DIR_ID = 556581296
+USERS_DIR_ID = 111111111
 
 
 # catch errors
