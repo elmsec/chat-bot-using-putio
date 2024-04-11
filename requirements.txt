@@ -1,7 +1,7 @@
 certifi==2023.7.22
 chardet==3.0.4
 future==0.16.0
-idna==2.7
+idna==3.7
 peewee==3.5.2
 psycopg2-binary==2.7.5
 putio.py==8.2.0
